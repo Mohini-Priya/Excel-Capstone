@@ -48,5 +48,6 @@ This project delivers actionable recommendations to improve Frescho’s delivery
 ## Author
 
 **Mohini Priya**  
-[GitHub](https://github.com/Mohini-Priya) | [LinkedIn](https://www.linkedin.com/in/mohini-priya-9a308b128)  
+[GitHub](https://github.com/Mohini-Priya) 
+[LinkedIn](https://www.linkedin.com/in/mohini-priya-9a308b128)  
 Email: mmohinipriya@gmail.com
